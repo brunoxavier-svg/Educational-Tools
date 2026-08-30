@@ -1,0 +1,78 @@
+# Rocket Trajectory Simulator
+
+A Python-based educational tool for analyzing and visualizing
+the trajectory of multiple launched rockets.
+
+## 🎯 Objective
+
+This project was developed as an educational tool to help
+students understand projectile motion through numerical
+calculations and graphical visualization.
+
+The program allows users to define multiple rockets and
+compare their trajectories based on their initial velocity
+and launch angle.
+
+## 🚀 Features
+
+- Input validation for integer and floating-point values
+- Simulation of multiple rockets
+- Calculation of:
+  - Maximum height
+  - Horizontal range
+  - Flight time
+- Graphical comparison of rocket trajectories
+- Custom rocket names
+- Random colors for trajectory visualization
+
+## 🧮 Physics Model
+
+The simulator uses the equations of projectile motion to
+calculate the main characteristics of each trajectory.
+
+The gravitational acceleration is set to:
+
+g = 9.81 m/s²
+
+For each rocket, the program calculates its maximum height,
+horizontal range, and total flight time from the initial
+velocity and launch angle.
+
+## 🛠️ Technologies
+
+- Python
+- NumPy
+- Matplotlib
+- Google Colab
+
+## 📊 Visualization
+
+The trajectories of all simulated rockets are displayed
+in a single graph, allowing users to compare how different
+initial conditions affect projectile motion.
+
+## 📚 Educational Purpose
+
+This tool is designed to support physics education by
+connecting theoretical equations with numerical simulation
+and graphical visualization.
+
+It can be used to explore the effects of initial velocity
+and launch angle on projectile trajectories.
+
+## ▶️ How to Run
+
+The project can be executed directly in Google Colab below;
+
+https://colab.research.google.com/drive/1pKzFE2Qt42SsTMl1YD_XoMabBU8_06WS?usp=sharing
+
+1. Open the notebook.
+2. Run the cells.
+3. Enter the number of rockets.
+4. Provide a name, initial velocity, and launch angle for
+   each rocket.
+5. Compare the calculated results and trajectories.
+
+## 👨‍💻 Author
+
+Bruno Francisco Xavier
