@@ -1,0 +1,87 @@
+# OneMath — SAT Math Practice Platform
+
+OneMath is a prototype digital learning platform designed for
+SAT Math preparation, featuring an interactive question bank
+focused on Algebra.
+
+The project explores the design and development of a digital
+assessment experience inspired by modern computer-based testing
+interfaces, while maintaining an original visual identity and
+design.
+
+## 🚀 Live Demo
+
+[Access OneMath](https://onemath-2.vercel.app/)
+
+## 🎯 Objective
+
+The project aims to create an interactive environment for
+students preparing for the SAT Math section.
+
+The current prototype focuses on Algebra and serves as a
+foundation for expanding the platform into a broader SAT
+question bank.
+
+## 📚 Question Bank
+
+The prototype includes a collection of Algebra questions
+designed around the types of mathematical skills required for
+SAT preparation.
+
+The platform is structured to support the future expansion of
+additional mathematical domains and question sets.
+
+## 💻 Assessment Experience
+
+The interface was designed specifically for digital assessment,
+taking inspiration from modern computer-based testing platforms.
+
+The project explores:
+
+- Question navigation
+- Multiple-choice interactions
+- Digital answer selection
+- Structured question presentation
+- Student-oriented interface design
+- Responsive web interaction
+
+The visual design and implementation are original.
+
+## 🧠 Educational Technology
+
+OneMath combines educational methodology with software
+development to create a more engaging digital learning
+experience.
+
+The project demonstrates the application of technology to:
+
+- Digital assessment
+- Test preparation
+- Mathematics education
+- Interactive learning
+- Educational content delivery
+
+## 🛠️ Technologies
+
+- Web development
+- JavaScript
+- HTML
+- CSS
+- Vercel
+
+## 🔮 Future Development
+
+Possible future extensions include:
+
+- Additional SAT Math domains
+- Larger question bank
+- Difficulty classification
+- Student performance tracking
+- Adaptive question selection
+- Practice tests
+- Performance analytics
+- Teacher/instructor dashboards
+
+## 👨‍💻 Author
+
+Bruno Francisco Xavier
