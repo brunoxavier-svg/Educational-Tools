@@ -1,0 +1,91 @@
+# Velocity Integration Simulator
+
+An interactive Python educational tool for calculating,
+visualizing, and solving definite integrals applied to
+velocity and displacement problems.
+
+## 🎯 Objective
+
+This project was developed as an educational resource to help
+students understand the relationship between velocity,
+displacement, and definite integrals through Python.
+
+The program allows users to define an initial and final time,
+calculate the distance traveled through numerical integration,
+and visualize the corresponding area under the velocity-time
+curve.
+
+## 🧮 Integral Visualization and Calculation
+
+The project demonstrates how Python can be used to both
+**solve and visualize definite integrals**.
+
+A velocity function is defined as:
+
+v(t) = 2t² + 3t + 2
+
+The distance traveled between two time instants is obtained
+by integrating the velocity function over the selected
+interval.
+
+The result is then represented graphically as the area under
+the velocity-time curve.
+
+## 📊 Visualization
+
+The program generates a velocity-versus-time graph and
+highlights the integration interval.
+
+This provides a visual interpretation of the definite
+integral and its physical meaning as accumulated distance.
+
+## 🛠️ Technologies
+
+- Python
+- NumPy
+- Matplotlib
+- SciPy
+- Numerical Integration
+
+## 🔬 Computational Methods
+
+The project uses `scipy.integrate.quad` to perform numerical
+integration of the velocity function.
+
+This demonstrates how computational tools can be used to solve
+definite integrals and connect numerical results with their
+graphical representation.
+
+## 🚀 How to Run
+https://colab.research.google.com/drive/1xKdcn_DCNNHaU2KuIi8srLdyNk0VfHid?usp=sharing
+
+## 📚 Educational Purpose
+
+This project explores the use of Python as a tool for teaching
+and learning calculus and physics.
+
+It connects:
+
+- Definite integrals
+- Numerical integration
+- Velocity and displacement
+- Area under a curve
+- Graphical interpretation
+- Computational physics
+- Python programming
+
+## 🔮 Possible Extensions
+
+Future versions could include:
+
+- User-defined mathematical functions
+- Interactive integration limits
+- Analytical vs. numerical integration
+- Comparison between different numerical methods
+- Interactive Plotly visualization
+- Integration of acceleration to obtain velocity
+- Integration of velocity to obtain position
+
+## 👨‍💻 Author
+
+Bruno Francisco Xavier
