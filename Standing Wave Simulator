@@ -1,7 +1,7 @@
 # Standing Wave Simulator
 
 An interactive educational tool for visualizing standing waves
-and wave interference using Python.
+and wave interference using Python: https://colab.research.google.com/drive/14_F_teY83loo4Yf17YO4tmV6IuELYagD?usp=sharing
 
 ## 🎯 Objective
 
@@ -28,7 +28,8 @@ reflection, standing-wave formation and how use python to solve problems.
 
 ## 🚀 How to Use
 
-Enter the wave velocity and string length. The simulator then
+Click on the link: https://colab.research.google.com/drive/14_F_teY83loo4Yf17YO4tmV6IuELYagD?usp=sharing
+Select the wave velocity and string length. The simulator then
 allows the user to explore different wavelengths using an
 interactive slider.
 
