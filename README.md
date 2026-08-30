@@ -1,15 +1,4 @@
-# Bruno Francisco Xavier
 
-### Physics Educator | Educational Technology | Python | Scientific Computing
-
-Physics graduate and Master's student in Biophysics, with
-experience in physics education, educational technology,
-Python programming, scientific computing, and data analysis.
-
-I develop computational and web-based solutions that connect
-scientific knowledge, programming, and education.
-
----
 
 ## 🚀 Featured Projects
 
