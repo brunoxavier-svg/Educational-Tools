@@ -1,4 +1,27 @@
+# Bruno Francisco Xavier
 
+Physics graduate | Master's student in Biophysics | 
+Microfluidics | Python | Educational Technology
+
+## About me
+
+Physics graduate from UFG currently working with microfluidics,
+liposomes and biomimetic nanoparticles.
+
+I also have experience with physics education, SAT preparation,
+Python and data analysis.
+
+## Research
+
+- Microfluidic device development
+- Liposome production
+- Biomimetic nanoparticles
+- Experimental design
+- DLS data analysis
+
+## Technologies
+
+Python |  Microfluidics | Data Analysis | Machine Learning
 
 ## 🚀 Featured Projects
 
