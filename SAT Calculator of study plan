@@ -1,0 +1,47 @@
+# SAT Calculator
+
+An interactive web-based calculator designed to support
+students in understanding and analyzing SAT scores.
+
+## 🎯 Objective
+
+This project was developed as an educational tool to help
+students interpret SAT results and explore score calculations
+in an accessible and interactive way.
+
+## 🚀 Live Demo
+
+[Access the SAT Calculator](https://calculadora-sat-vercel-oficial.vercel.app/)
+
+## 💡 Features
+
+- Interactive SAT score calculation
+- User-friendly interface
+- Instant results
+- Designed for educational use
+- Responsive web interface
+
+## 📚 Educational Purpose
+
+The calculator was developed to support students preparing
+for the SAT by providing an accessible way to interact with
+score-related information.
+
+The project combines educational methodology with web
+development to create a practical digital learning tool.
+
+## 🛠️ Technologies
+
+- JavaScript
+- HTML
+- CSS
+- Vercel
+
+## 🌐 Deployment
+
+The application is deployed using Vercel and is available
+online for direct use.
+
+## 👨‍💻 Author
+
+Bruno Francisco Xavier
